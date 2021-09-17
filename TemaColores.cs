@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Drawing;
 
-namespace Parroquia
+namespace TemasDasnet
 {
     public static class TemaColores
     {
