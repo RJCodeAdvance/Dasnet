@@ -12,7 +12,7 @@ namespace SoftwareDasnet.CapaDatos
         private readonly string CadenaConexion;
         public Repositorio()
         {
-            CadenaConexion = "server = DESKTOP-S6SO1ER\\SQLEXPRESS; database=WppDasnet; integrated security=true";
+            CadenaConexion = "server = TuServer; database=TuDataBase; integrated security=true";
         }
         protected SqlConnection ObtenerConexion()
         {
